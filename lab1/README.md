@@ -1,2 +1,3 @@
-* Hello
-![1]("Screen Shot 2022-12-05 at 10.18.27 AM.png")
+![1](pic1.png)
+![2](pic2.png)
+![3](pic3.png)
